@@ -1,0 +1,8 @@
+#named simcom-disconnect-chat and place in /etc/ppp/peers
+ABORT "ERROR"
+ABORT "NO DIALTONE"
+SAY "\nSending break to the modem\n"
+"" +++
+"" +++
+"" +++
+SAY "\nGoodbay\n"
