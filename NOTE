@@ -1,0 +1,7 @@
+1. Place the files in the location as described in them
+2. Next use the command given below:
+pppd call simcom-pppd &
+3. The above command will initiate ppp dial-up and the "&" indicates it to run in background
+4. Also to close  ppp connection use the poff command 
+                    
+                    
